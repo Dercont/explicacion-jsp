@@ -1,0 +1,5 @@
+### Avance
+1.Instalar Git
+2.Docker CE
+3.Docker-Compose
+4.Maven
